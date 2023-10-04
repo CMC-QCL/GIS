@@ -4,7 +4,7 @@
 Instructor: Vanessa Casillas, Graduate Fellow of the Quantitative and Computing Lab at Claremont McKenna College
 
 ## **Summary**
-ArcGIS Online Overview
+GIS (or Geographic Information System) is a computer system that creates, analyzes, and displays geographic information and location-based data through maps. Thanks to massive data availability these days, GIS has become one of the most important tools for data-driven decision making. See some examples of how GIS is used: https://www.esri.com/en-us/what-is-gis/overview. Through this 2-part workshop (basics and data exploration), you will learn about the basics of ArcGIS and create a special map using its analysis tool. We recommend you to take both workshops if you have not used GIS tools before.
 
 ## **Target Audience**
 This workshop is designed for beginners to GIS. No prior knowledge is needed.
